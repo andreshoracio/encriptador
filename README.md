@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Encriptador de texto</p>
-  <a href="https://docusaurus.io"><img src="https://docusaurus.io/img/slash-introducing.svg" alt="Docusaurus"></a>
+  <a href="https://docusaurus.io"><img src="[https://docusaurus.io/img/slash-introducing.svg](https://raw.githubusercontent.com/andreshoracio/encriptador/main/img/1.png)" alt="encriptador desktop"></a>
 </h1>
 
 > ** Las "llaves" de encriptación que utilizaremos son las siguientes:
