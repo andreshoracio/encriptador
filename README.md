@@ -1,16 +1,15 @@
 <h1 align="center">
   <p align="center">Encriptador de texto</p>
-  <a href="https://andreshoracio.github.io/encriptador"><img src="[https://raw.githubusercontent.com/andreshoracio/encriptador/main/img/1.png](https://raw.githubusercontent.com/andreshoracio/encriptador/main/img/1.png)" alt="encriptador desktop"></a>
+  <a href="https://andreshoracio.github.io/encriptador"><img src="[https://andreshoracio.github.io/encriptador/img/mu%C3%B1eco.png](https://andreshoracio.github.io/encriptador/img/mu%C3%B1eco.png)" alt="encriptador desktop"></a>
 </h1>
 
-> ** Las "llaves" de encriptación que utilizaremos son las siguientes:
+> ** Las "llaves" de encriptación que utilizaremos son las siguientes:**
 
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
- **
+** La letra "i" es convertida para "imes"**
+** La letra "a" es convertida para "ai"**
+** La letra "o" es convertida para "ober"**
+** La letra "u" es convertida para "ufat"**
+ 
 
 > 
 ## Requisitos:
