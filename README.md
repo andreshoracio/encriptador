@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Encriptador de texto</p>
-  <a href="https://docusaurus.io"><img src="[https://docusaurus.io/img/slash-introducing.svg](https://raw.githubusercontent.com/andreshoracio/encriptador/main/img/1.png)" alt="encriptador desktop"></a>
+  <a href="https://andreshoracio.github.io/encriptador"><img src="[https://raw.githubusercontent.com/andreshoracio/encriptador/main/img/1.png](https://raw.githubusercontent.com/andreshoracio/encriptador/main/img/1.png)" alt="encriptador desktop"></a>
 </h1>
 
 > ** Las "llaves" de encriptación que utilizaremos son las siguientes:
@@ -10,7 +10,7 @@ La letra "i" es convertida para "imes"
 La letra "a" es convertida para "ai"
 La letra "o" es convertida para "ober"
 La letra "u" es convertida para "ufat"
- [Docusaurus v2 website](https://docusaurus.io/) for more details.**
+ **
 
 > 
 ## Requisitos:
